@@ -2,145 +2,7 @@
 
 
 
-                          THE COMPLETE SHERLOCK HOLMES
-
-                               Arthur Conan Doyle
-
-
-
-                                Table of contents
-
-               A Study In Scarlet
-
-               The Sign of the Four
-
-                  The Adventures of Sherlock Holmes
-               A Scandal in Bohemia
-               The Red-Headed League
-               A Case of Identity
-               The Boscombe Valley Mystery
-               The Five Orange Pips
-               The Man with the Twisted Lip
-               The Adventure of the Blue Carbuncle
-               The Adventure of the Speckled Band
-               The Adventure of the Engineer's Thumb
-               The Adventure of the Noble Bachelor
-               The Adventure of the Beryl Coronet
-               The Adventure of the Copper Beeches
-
-                  The Memoirs of Sherlock Holmes
-               Silver Blaze
-               The Yellow Face
-               The Stock-Broker's Clerk
-               The "Gloria Scott"
-               The Musgrave Ritual
-               The Reigate Squires
-               The Crooked Man
-               The Resident Patient
-               The Greek Interpreter
-               The Naval Treaty
-               The Final Problem
-
-                  The Return of Sherlock Holmes
-               The Adventure of the Empty House
-               The Adventure of the Norwood Builder
-               The Adventure of the Dancing Men
-               The Adventure of the Solitary Cyclist
-               The Adventure of the Priory School
-               The Adventure of Black Peter
-               The Adventure of Charles Augustus Milverton
-               The Adventure of the Six Napoleons
-               The Adventure of the Three Students
-               The Adventure of the Golden Pince-Nez
-               The Adventure of the Missing Three-Quarter
-               The Adventure of the Abbey Grange
-               The Adventure of the Second Stain
-
-               The Hound of the Baskervilles
-
-               The Valley Of Fear
-
-                  His Last Bow
-               Preface
-               The Adventure of Wisteria Lodge
-               The Adventure of the Cardboard Box
-               The Adventure of the Red Circle
-               The Adventure of the Bruce-Partington Plans
-               The Adventure of the Dying Detective
-               The Disappearance of Lady Frances Carfax
-               The Adventure of the Devil's Foot
-               His Last Bow
-
-                  The Case-Book of Sherlock Holmes
-               Preface
-               The Illustrious Client
-               The Blanched Soldier
-               The Adventure Of The Mazarin Stone
-               The Adventure of the Three Gables
-               The Adventure of the Sussex Vampire
-               The Adventure of the Three Garridebs
-               The Problem of Thor Bridge
-               The Adventure of the Creeping Man
-               The Adventure of the Lion's Mane
-               The Adventure of the Veiled Lodger
-               The Adventure of Shoscombe Old Place
-               The Adventure of the Retired Colourman
-
-
-
-
-
-
-
-
-
-
-
-                               A STUDY IN SCARLET
-
-
-
-
-
-                                Table of contents
-
-         Part I
-        Mr. Sherlock Holmes
-        The Science Of Deduction
-        The Lauriston Garden Mystery
-        What John Rance Had To Tell
-        Our Advertisement Brings A Visitor
-        Tobias Gregson Shows What He Can Do
-        Light In The Darkness
-
-         Part II
-        On The Great Alkali Plain
-        The Flower Of Utah
-        John Ferrier Talks With The Prophet
-        A Flight For Life
-        The Avenging Angels
-        A Continuation Of The Reminiscences Of John Watson, M.D.
-        The Conclusion
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                                      PART I
+                                          PART I
 
                    (Being a reprint from the reminiscences of
                               John H. Watson, M.D.,
@@ -4965,34 +4827,7 @@
 
 
 
-                                Table of contents
-        The Science of Deduction
-        The Statement of the Case
-        In Quest of a Solution
-        The Story of the Bald-Headed Man
-        The Tragedy of Pondicherry Lodge
-        Sherlock Holmes Gives a Demonstration
-        The Episode of the Barrel
-        The Baker Street Irregulars
-        A Break in the Chain
-        The End of the Islander
-        The Great Agra Treasure
-        The Strange Story of Jonathan Small
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+                                
           CHAPTER I
           The Science of Deduction
 
@@ -9638,38 +9473,7 @@
 
 
 
-
-
-
-                        THE ADVENTURES OF SHERLOCK HOLMES
-
-
-
-
-
                               A SCANDAL IN BOHEMIA
-
-
-
-
-
-                                Table of contents
-                                     Chapter 1
-                                     Chapter 2
-                                     Chapter 3
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
           CHAPTER I
@@ -44785,40 +44589,6 @@
                           THE HOUND OF THE BASKERVILLES
 
 
-
-
-
-                                Table of contents
-        Mr. Sherlock Holmes
-        The Curse of the Baskervilles
-        The Problem
-        Sir Henry Baskerville
-        Three Broken Threads
-        Baskerville Hall
-        The Stapletons of Merripit House
-        First Report of Dr. Watson
-        Second Report of Dr. Watson
-        Extract from the Diary of Dr. Watson
-        The Man on the Tor
-        Death on the Moor
-        Fixing the Nets
-        The Hound of the Baskervilles
-        A Retrospection
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
           CHAPTER I
           Mr. Sherlock Holmes
 
@@ -51846,59 +51616,8 @@
 
 
 
-                               THE VALLEY OF FEAR
-
-
-
-
-
-                                Table of contents
-
-         Part I
-        The Warning
-        Sherlock Holmes Discourses
-        The Tragedy of Birlstone
-        Darkness
-        The People Of the Drama
-        A Dawning Light
-        The Solution
-
-         Part II
-        The Man
-        The Bodymaster
-        Lodge 341, Vermissa
-        The Valley of Fear
-        The Darkest Hour
-        Danger
-        The Trapping of Birdy Edwards
-        Epilogue
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                                      PART I
-
-                            The Tragedy of Birlstone
-
-
-
-
-
+                               THE VALLEY OF FEAR                      
+                               
           CHAPTER I
           The Warning
 
@@ -58880,31 +58599,7 @@
 
 
 
-                         THE ADVENTURE OF WISTERIA LODGE
-
-
-
-
-
-                                Table of contents
-        The Singular Experience of Mr. John Scott Eccles
-        The Tiger of San Pedro
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-          CHAPTER I
+             CHAPTER I
           The Singular Experience of Mr. John Scott Eccles
 
 
@@ -61091,26 +60786,6 @@
 
 
                          THE ADVENTURE OF THE RED CIRCLE
-
-
-
-
-
-                                Table of contents
-        Part One
-        Part Two
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
